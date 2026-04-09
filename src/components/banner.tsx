@@ -48,7 +48,7 @@ const Banner = ({ hide, setHide }: BannerProps) => {
             />
             <span className="sr-only">Light bulb</span>
           </span>
-          <span>
+          {/* <span>
             Did you enjoy this portfolio? Take a look at my{" "}
             <Link
               to="https://www.sanidhyy.name"
@@ -59,7 +59,7 @@ const Banner = ({ hide, setHide }: BannerProps) => {
               new portfolio
             </Link>
             .
-          </span>
+          </span> */}
         </p>
       </div>
       <div className="flex items-center">
